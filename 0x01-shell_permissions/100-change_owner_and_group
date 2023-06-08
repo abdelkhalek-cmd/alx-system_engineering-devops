@@ -1,0 +1,3 @@
+#!/bin/bash
+chown -hR Vincent staff_hello
+

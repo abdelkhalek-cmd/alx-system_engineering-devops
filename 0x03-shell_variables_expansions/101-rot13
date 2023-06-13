@@ -1,0 +1,4 @@
+#!/bin/bash
+tr 'echo{a..z}| tr-d'
+printf"%2f"$NUM|sort
+

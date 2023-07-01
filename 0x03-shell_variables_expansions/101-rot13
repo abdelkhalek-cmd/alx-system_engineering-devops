@@ -1,4 +1,2 @@
 #!/bin/bash
-tr 'echo{a..z}| tr-d'
-printf"%2f"$NUM|sort
-
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
